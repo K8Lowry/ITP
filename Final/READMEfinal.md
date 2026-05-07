@@ -15,6 +15,8 @@ I've tried so many different dimensions just trying to get it to look right. The
 ### Final Notes
 I really had a blast with the "past" page and finding all the random times I've performed in the past few years. Best part? THATS NOT ALL OF THEM. This project definitely taught me a lot about the .css files and how well it works together once it actually works right. I would totally use this in the future if I could get my pages to connect right. 
 
+Even with all of the flukes and flaws I made, I'm still a kinda proud of what I've accomplished in this class and for persevering through it. I spent a good chunk of the semester feeling behind and lost due to not being an EPD major who knows anything about coding, but I chose to hang in there - and I'm glad I did. I really enjoyed this class, and I enjoyed having Dr. Rome again for class. To Dr. Rome, best of luck to you in Belfast. You are going to do great things, and inspire so many people. I wish you all the best on your next chapter.
+
 ### Thank You!!
 
 
