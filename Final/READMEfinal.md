@@ -1,6 +1,8 @@
-file:///Users/klowry/Desktop/K8L.html
-file:///Users/klowry/Desktop/K8L.aka:about.html
-file:///Users/klowry/Desktop/K8L.aka:past:.html.html
+Home) file:///Users/klowry/Desktop/K8L.html
+
+About) file:///Users/klowry/Desktop/K8L.aka:about.html
+
+Past) file:///Users/klowry/Desktop/K8L.aka:past:.html.html
 
 
 ## Final Project
