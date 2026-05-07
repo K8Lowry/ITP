@@ -1,0 +1,42 @@
+body {
+background-color: #a3c4cc;
+}
+
+h1 {
+font-family: Helvetica;
+color: red;
+text-align: center;
+font-size: 35px;
+}
+
+p {
+font-family: Helvetica;
+}
+
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+Width: 100%;
+}
+
+.topnav {
+background-color: #CCC0A3;
+overflow: hidden;
+float: center;
+color: blue;
+font-family: Helvetica;
+text-align: center;
+padding: 12px 12px;
+font-size: 15px;
+}
+
+.topnav a:hover {
+background-color: #CCA3AF;
+color: black;
+}
+
+.topnav a.active {
+background-color: #A3AFCC;
+color: white;
+}

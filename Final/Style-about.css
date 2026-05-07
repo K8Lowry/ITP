@@ -1,0 +1,43 @@
+body {
+  background-color: #A3CCC0;
+}
+
+h1 {
+  font-family: Helvetica;
+  color: white;
+  text-align: center;
+  font-size: 35px;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 30px;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.topnav {
+  background-color: #CCC0A3;
+  overflow: hidden;
+  float: center;
+  color: white;
+font-family: Helvetica;  
+text-align: center;
+  padding: 12px 12px;
+  font-size: 15px;
+}
+
+.topnav a:hover {
+  background-color: #A3AFCC;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #CCA3AF;
+  color: white;
+}
