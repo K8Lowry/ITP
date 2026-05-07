@@ -1,3 +1,8 @@
+file:///Users/klowry/Desktop/K8L.html
+file:///Users/klowry/Desktop/K8L.aka:about.html
+file:///Users/klowry/Desktop/K8L.aka:past:.html.html
+
+
 ## Final Project
 With this project, I learned a lot about my patience when it comes to tedious trial and error loops. 
 For my project, I did start with a copy of Dr. Rome's website. While I probably shouldn't have taken that approach, I didn't use AI anywhere in this project - and everything that seems wrong or slightly off-kilter was me attempting to fix it myself. 
